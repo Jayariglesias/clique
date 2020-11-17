@@ -3,9 +3,9 @@ CLIQUE JS ALPHA v0.1'
 BY: FORDEE -- JAYAR IGLESIAS
 
 LIST OF FUNCTIONS
-    ** -> Function Name
-        > clique.functionName <-- calling function
-    -- -> Return || Description
+
+    -> clique.functionName
+    -- Return || Description
 
     ** append(id,value)
     -- append a value to the id of tags
