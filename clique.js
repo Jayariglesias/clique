@@ -2,7 +2,7 @@
 /*
 CLIQUE JS ALPHA v0.1'
 
-BY: FORDEE -- JAYAR IGLESIAS
+BY: FORDEE
 
 LIST OF FUNCTIONS
     ** -> Function Name
