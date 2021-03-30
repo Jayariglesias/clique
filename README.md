@@ -1,7 +1,3 @@
-CLIQUE JS ALPHA v0.1'
-
-BY: FORDEE -- JAYAR IGLESIAS
-
 LIST OF FUNCTIONS
 
     -> clique.functionName
