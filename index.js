@@ -3,7 +3,7 @@
 
 LIST OF FUNCTIONS
     ** -> Function Name
-        > clique.functionName <-- calling function
+        > fd.functionName <-- calling function
     -- -> Return || Description
 
     ** append(id,value)
@@ -50,7 +50,7 @@ LIST OF FUNCTIONS
 
 */
 
-const clique = {
+const fd = {
     append: (e, t) => {
         document.getElementById(e).innerHTML = t
     },
