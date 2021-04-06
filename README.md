@@ -1,6 +1,6 @@
 LIST OF FUNCTIONS
 
-    -> clique.functionName
+    -> fd.functionName
     -- Return || Description
 
     ** append(id,value)
@@ -11,6 +11,7 @@ LIST OF FUNCTIONS
 
     ** checkValue(id.value)
     -- return null if null
+    
     -- return value if not null
 
     ** checkBool(id.value)
